@@ -1,3 +1,3 @@
-# Speech-Controlled-Home-automation
+# VOice-Controlled-Home-automation
 
-Arduino code for speech controlled home automation project
+Arduino code for Voice controlled home automation by Alexa Echo dot
